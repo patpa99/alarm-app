@@ -1,0 +1,4 @@
+{
+  "get5AlarmsList": "http://localhost:3000/alarms/get5AlarmsList",
+  "getAllAlarmsList": "http://localhost:3000/alarms/getAllAlarmsList"
+}
